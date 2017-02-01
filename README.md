@@ -9,7 +9,7 @@ El backdoor es reescrito y modificado los demas es parte de msf
    * Acceso a Internet
    * Git
    
-##Installing on Debian/Ubuntu
+##Installing on Linux
 
     git clone https://github.com/JeyZeta/Aguini.git
     cd Aguini
