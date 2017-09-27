@@ -2,7 +2,7 @@
 El backdoor es reescrito y modificado los demas es parte de msf
 ##INSTALL
 
-###Requisitos
+###Requisitos:
 
    * Kali Linux, Parrot Os.
    * Python => 2.7
@@ -11,5 +11,5 @@ El backdoor es reescrito y modificado los demas es parte de msf
    
 ##Installing on Linux
 
-    git clone https://github.com/JeyZeta/Aguini.git
+    git clone https://github.com/HackingEnVivo/Aguini.git
     cd Aguini
