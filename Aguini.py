@@ -1,8 +1,8 @@
 #!/usr/bin/python
 # coding=utf-8
 #####################################################################################
-#Autor:Javier .O Benitez @shark_0 y Jey Zeta
-#Copyright (C) 2017 Aguini @shark_0 y Jey Zeta
+#Autor:Javier .O Benitez y Victor Bancayan
+#Copyright (C) 2017 Aguini @shark_0 y Hacking Live
 #fecha: 19-1-2017
 #Si quieres lograr algo con lo que siempre as soñado debes hacer lo que nunca as echo.
 #####################################################################################
@@ -93,8 +93,8 @@ print """
  /   /\   \  __|  | \     /__|   ||  | | | |_|   |
 /_ _/  \_ _\______|  \___/_______| ____| |_|_____|....
 ......................................................
-......................................BY Javier Benitez @Shark_0 y Jey Zeta
-.................Copyright (C) 2017 Aguini @shark_0 y Jey Zeta"""
+......................................BY Javier Benitez y Victor Bnacayan
+.................Copyright (C) 2017 Aguini @shark_0 y Hacking Live"""
 
 
 print """
@@ -177,8 +177,8 @@ if(option == 5):
 if(option ==6):
    print "---------------------------------"
    print "\nTelegram: @shark_0"
-   print "\nTwitter: @Sh4Rk_0"
+   print "\nTwitter: @Sh4Rk_0 & HackingEnVivo"
    print "\n[!] Para mas info o ventas de malware, phishing o scripts puedes comunicarte conmigo por telegram o twitter. [!]"
-   print "\nCopyright (C) 2017 Aguini @shark_0"
+   print "\nCopyright (C) 2017 Aguini @shark_0 y Hacking Live"
    print "---------------------------------"
 
