@@ -177,7 +177,7 @@ if(option == 5):
 if(option ==6):
    print "---------------------------------"
    print "\nTelegram: @shark_0"
-   print "\nTwitter: @Sh4Rk_0 & HackingEnVivo"
+   print "\nTwitter: @Sh4Rk_0 & @HackingEnVivo"
    print "\n[!] Para mas info o ventas de malware, phishing o scripts puedes comunicarte conmigo por telegram o twitter. [!]"
    print "\nCopyright (C) 2017 Aguini @shark_0 y Hacking Live"
    print "---------------------------------"
